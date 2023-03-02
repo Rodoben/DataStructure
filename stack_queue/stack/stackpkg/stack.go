@@ -27,3 +27,8 @@ func (s *Stack) DisplayStack() {
 		fmt.Println(i, v)
 	}
 }
+
+
+func (s *Stack)Delelte{
+	
+}
